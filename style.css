@@ -45,7 +45,14 @@ i{
 .mission{
     text-align: justify;
 }
-
+.bg_img{
+    background-image: url("./images/yellow-backpack-stack-books-orange.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 580px;
+}
 
 
 
